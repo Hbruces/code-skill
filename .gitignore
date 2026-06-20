@@ -1,5 +1,6 @@
 # CodeWhale 本地配置（工具自动生成，不提交）
 .codewhale/
+.agents/
 
 # 操作系统文件
 .DS_Store
